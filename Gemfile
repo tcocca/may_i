@@ -13,6 +13,7 @@ gem "pg", ">= 0.14.1"
 gem "bootstrap-sass", ">= 2.1.1.0"
 gem "devise", ">= 2.1.2"
 gem "devise_invitable", ">= 1.1.4"
+gem "simple_form", "~> 2.0.4"
 
 group :development do
   gem "quiet_assets", ">= 1.0.1"
